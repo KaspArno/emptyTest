@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Class_GetFamiliar" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
